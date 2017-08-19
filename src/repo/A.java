@@ -7,5 +7,5 @@ public class A {
 	int b =1;
 	int c=2;
 	int d=4;
-	int e=5;
+	
 }
